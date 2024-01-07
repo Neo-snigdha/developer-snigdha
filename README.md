@@ -20,7 +20,7 @@ I'm always open to collaborating on interesting projects. Feel free to reach out
 
 ## Let's Connect
 - <a href="https://www.linkedin.com/in/developer-snigdha/" target="_blank">LinkedIn</a>
-- [Telegram]()- <a href="https://t.me/developer_snigdha" target="_blank">Telegram</a>
+- <a href="https://t.me/developer_snigdha" target="_blank">Telegram</a>
 
 
  Thanks for checking out my GitHub! 😊
