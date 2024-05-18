@@ -8,8 +8,7 @@ Hello there! 👋 I'm Snigdharani, a software developer. I'm passionate about cr
 - 📫 How to reach me: <a href="mailto:01snigdharani@gmail.com">01snigdharani@gmail.com</a>
 
 ## Skills
-- 💻 C, C++
-- 📚 MySQL, Oracle
+- 💻 C, C++, Node.js, MongoDB, SQL, React.JS, Oracle, PHP, JavaScript, CSS, HTML, NoSQL, User Experience(UX), Bootstrap
 
 ## Projects
 Here are a few projects I'm proud of:
