@@ -1,7 +1,7 @@
- 👋 Hi, I’m <a href="https://developer-snigdha.github.io/snigdharani/" target="_blank">developer-snigdha</a> 
+ 👋 Hi, I’m <a href="https://developer-snigdha.github.io/snigdharani/" target="_blank">Snigdha Rani</a> 
 
 ## Introduction
-Hello there! 👋 I'm Snigdharani, a software developer. I'm passionate about creating meaningful and efficient solutions to real-world problems.
+Hello there! 👋 I'm Snigdharani Padhy, a software developer. I'm passionate about creating meaningful and efficient solutions to real-world problems.
 
 ## About Me
 - 🌐 <a href="https://developer-snigdha.github.io/snigdharani/" target="_blank">Portfolio</a>
